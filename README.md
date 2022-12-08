@@ -33,8 +33,9 @@ Estilo: Pixel art
 
 
 ## Programação
-
-
+#### Principal
+- Menu
+- Esqueleto do primeiro combate
 
 ## Escrita 
 #### Principal

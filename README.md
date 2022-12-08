@@ -1,4 +1,4 @@
-Programadores: [[Pearlite]]
+Programadores: [[Pearlite]], [[GoDoug]]
 Arte: [[Garuad]]
 Roteiristas: [[Thandryus]]
 Soundtrack: [[Fupi]]
@@ -33,6 +33,7 @@ Estilo: Pixel art
 
 
 ## Programação
+Engine: Godot
 #### Principal
 - Menu
 - Esqueleto do primeiro combate
